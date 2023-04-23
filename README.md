@@ -12,10 +12,11 @@
 - 👨‍💻 All of my projects are available at [codingDemon1.github.io](codingDemon1.github.io)
 
 - 📫 How to reach me **kumar.nit1021@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link](https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link)
  <br>
  <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingdemon1" alt="codingdemon1" /></a> </p>
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link](https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
