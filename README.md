@@ -1,4 +1,4 @@
-![img](https://github.com/CodingDemon1/CodingDemon1.github.io/blob/main/github.png)
+![img](https://github.com/CodingDemon1/CodingDemon1/blob/main/github.png)
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
