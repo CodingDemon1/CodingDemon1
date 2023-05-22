@@ -1,4 +1,4 @@
-<img src="https://github.com/CodingDemon1/CodingDemon1/blob/main/github.jpg">
+![img](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Nitish Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
