@@ -9,7 +9,7 @@
 -  I’m currently learning Full Stack Web Development Node.js, Express.js, MongoDB
 -  📫 My Portfolio https://CodingDemon1.github.io/
 -  How to reach me **kumar.nit1021@gmail.com**
-- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link](https://drive.google.com/file/d/19hL3WuGpBQn8J-KyyVN-aUs_RFBWNsy8/view?usp=sharing))
+- 📄 Know about my experiences [My-Resume]([https://drive.google.com/file/d/1-jsug8lcVHdsVM4wRvYzYFf0mvAviXZl/view?usp=share_link](https://drive.google.com/file/d/19hL3WuGpBQn8J-KyyVN-aUs_RFBWNsy8/view?usp=sharing)])
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kumarnitish1021) 
